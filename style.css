@@ -80,7 +80,7 @@ i{
 #Nica{
 	width: 300px;
 }
-#link-design{
+#link-design p{
 	text-align: center;
 }
 /* Custom design with class */
@@ -125,7 +125,7 @@ i{
   display:inline;
 }
 .container {
-    width: 700px;
+    width: 1000px;
     margin :40px auto;
 }
 .orange{
