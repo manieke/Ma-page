@@ -1,0 +1,134 @@
+/*Color & font*/
+body {
+	background-color: #f2f4fb;
+	color:#45315d;	 
+	font-weight: lighter;
+/*	font-family: Montserrat;
+	font-size:17px;
+	text-align:center;
+	background-color: #ffffff;
+	background-image: url("");
+	background-position: fixed;*/
+	/*background-size: cover;*/
+	background-color: #ffcbc4;
+	background-image: url("fond2.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px;
+	text-align:center;
+
+	}
+
+h1{
+	color: #45315d;
+	font-family: "Dancing Script";
+	font-size: 65px;
+	text-align: center;
+	font-weight: lighter;
+	letter-spacing: 5px;
+	margin: 1px;
+	font-style:italic;
+}
+h2{
+	text-align: center;
+	color: #ff9280;
+	font-size:24px;
+	font-family: "montserrat";
+}
+p{
+	font-family: "open sans";
+	color:#45315d;
+	font-weight: lighter;
+	text-align: center;
+	font-size:17px;
+	text-align: justify;
+}
+a{
+	text-decoration: none;
+	color:#45315d;
+	transition: color 0.6s ease;
+	font-weight: bold;
+}
+a:hover{
+	color:#ff9280;
+	font-weight: bold;
+}
+i{
+	font-size: 30px;
+}
+/* Design adjustment using id */
+#Bienvenue{
+	padding:1px;
+	border-radius: 10px;
+	margin: 100px;
+	margin-top:10px;	
+}
+#footer-color{
+	background:#fde3d9; 
+	width:100%;
+}
+#Follow{
+	color:#45315d;
+}
+#photo{
+	border-radius: 30px;
+	margin-top: 30px;
+}
+#instagram{
+	width: 300px;
+}
+#Nica{
+	width: 300px;
+}
+#link-design{
+	text-align: center;
+}
+/* Custom design with class */
+.list-without-bullet-point {
+   list-style-type: none;
+   color:#ff9280;
+   padding: 5px;
+   margin: 20px;
+   font-family: 'Open Sans';
+   font-weight: lighter;
+   font-size: 20px;
+}
+.list-without-bullet-point li {
+	display: inline;
+	margin: 20px;
+}
+.card-paragraph{
+	background-color: #f9f9f9;
+	padding:15px;
+	margin: 100px;
+}
+.card-resume{
+	background-color: #f9f9f9;
+	padding: 5px;
+	margin: 0px;
+}
+.card-social{
+	background-color: #fde3d9;
+	padding:20px;
+	margin: 0px;
+	padding-bottom: 65px;
+}
+.list-social-media {
+  float:left;
+  width:100%;
+  padding:0;
+  margin:0;
+  list-style-type:none;
+}
+.list-social-media li
+{
+  display:inline;
+}
+.container {
+    width: 700px;
+    margin :40px auto;
+}
+.orange{
+	color:#ff9280;
+}
+
