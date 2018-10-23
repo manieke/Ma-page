@@ -16,8 +16,7 @@ body {
 	background-size: cover;
 	margin: 0px;
 	text-align:center;
-
-	}
+}
 
 h1{
 	color: #45315d;
@@ -132,3 +131,6 @@ i{
 	color:#ff9280;
 }
 
+#link-design p {
+	text-align: center;
+}
